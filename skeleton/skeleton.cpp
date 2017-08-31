@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("skeleton!!!!\nmake a change dude!\n\n");
+	printf("skeleton!!!!\nmake a change dude!\n user2 \n");
     return 0;
 }
 
