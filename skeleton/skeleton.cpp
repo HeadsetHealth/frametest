@@ -12,8 +12,9 @@ int main()
 	printf("the third change from user 2\n");
 	printf("the fourth change from user 1\n");
 	printf("the fourth change from user 2\n\n");
-	printf("sync test from user 2\n\n");
-	printf("pull request test from the fork user\n\n");
+	printf("sync test from user 2\n");
+	printf("pull request test from the fork user\n");
+	printf("the fifth change from user 2\n\n");
 	return 0;
 }
 
