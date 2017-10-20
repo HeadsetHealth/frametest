@@ -1,3 +1,5 @@
-﻿  skeleton.cpp
-  skeleton.vcxproj -> C:\dev\github\skeleton_user2\frametest\Debug\skeleton.exe
-  skeleton.vcxproj -> C:\dev\github\skeleton_user2\frametest\Debug\skeleton.pdb (Partial PDB)
+﻿  stdafx.cpp
+  skeleton.cpp
+  LINK : C:\dev\github\skelrepotest\frametest\Debug\skeleton.exe not found or not built by the last incremental link; performing full link
+  skeleton.vcxproj -> C:\dev\github\skelrepotest\frametest\Debug\skeleton.exe
+  skeleton.vcxproj -> C:\dev\github\skelrepotest\frametest\Debug\skeleton.pdb (Partial PDB)
