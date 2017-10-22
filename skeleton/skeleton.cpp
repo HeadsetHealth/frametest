@@ -24,6 +24,8 @@ int main()
 	printf("\nPull request Oct 22\n");
 	printf("base change Oct 22\n");
 
+	printf("\ntesting reset of fork\n");
+
 
 
 	
