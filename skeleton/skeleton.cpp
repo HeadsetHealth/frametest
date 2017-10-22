@@ -25,6 +25,7 @@ int main()
 	printf("base change Oct 22\n");
 
 	printf("\ntesting reset of fork\n");
+	printf("\nupstream change after reset Oct 22\n");
 
 
 
